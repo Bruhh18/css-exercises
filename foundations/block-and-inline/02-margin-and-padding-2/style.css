@@ -11,12 +11,15 @@ body {
 
 .title {
   background: #e3f4ff;
-  border: 5px solid white;
+  border: 8px solid white;
+padding: 2px;
 border-top: 30px solid white;}
 
 .content {
   background: #e3f4ff;
-}
+border: 8px solid white;
+padding-top: 30px;
+margin-top: 10px;}
 
 .button-container {
   background: #e3f4ff;
