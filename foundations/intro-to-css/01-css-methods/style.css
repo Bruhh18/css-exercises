@@ -1,5 +1,8 @@
 div {
-    font-size: 50px;
+    font-size: 32px;
+    color: white;
     background-color: red;
-    border: 8px;
+    
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
