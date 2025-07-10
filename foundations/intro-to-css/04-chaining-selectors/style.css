@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.cool {
+    width: 300px; height: auto;
+}
+
+.uncool {
+    width: 200px; height: 400px;
+}
