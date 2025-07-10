@@ -1,8 +1,8 @@
 /* Add CSS Styling */
-.cool {
+.avatar.proportioned {
     width: 300px; height: auto;
 }
 
-.uncool {
+.avatar.distorted{
     width: 200px; height: 400px;
 }
